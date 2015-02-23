@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP WIFI-NRF24L01
+D Modulo NRF24L01 / NRF24L01+
+$ENDCMP
+#
 #End Doc Library
